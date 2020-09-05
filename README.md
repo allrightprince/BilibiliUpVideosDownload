@@ -1,0 +1,2 @@
+# BilibiliUpVideosDownload
+简陋的一键下载up全部视频脚本
